@@ -24,7 +24,7 @@ int main()
 
 	}
 
-	cout<<"Of those two numbers, the biggest is:\n"<<biggest_number;
+	cout<<"Of those two numbers, the biggest is: "<<biggest_number;
 
 	cout<<endl<<"Thank you for playing.\n";
 

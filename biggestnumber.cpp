@@ -20,7 +20,7 @@ int main()
 
 	}
 	else{
-		biggest_number+whole_number_2;
+		biggest_number=whole_number_2;
 
 	}
 
